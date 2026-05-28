@@ -1,0 +1,6 @@
+{
+  "name": "DailyUp Habit Tracker",
+  "description": "An 8-bit styled RPG daily habit and metric tracker with progression, statistics, quests, and economy",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
